@@ -1,0 +1,17 @@
+semester_date_str: '2022-2023(2)'
+xl_file_name: '附件1：医学院2022-2023学年第二学期专业课程表（定稿）.xls'
+weeks_yaml_file_name: 'weeks.yaml'
+teach_cal_template_docx: '教学日历模板.docx'
+teach_cal_time_table_xlsx: '课程时间安排.xlsx'
+teach_cal_data_list:
+  - entry:
+      course_name: 'SPSS软件应用训练'
+      course_data: 'spss_experiment.yaml'
+  - entry:
+      course_name: '护理专业英语'
+      course_data: 'nurse_english.yaml'
+
+
+kouqiangxi_teacher_list:
+  - 'zzm'
+  - 'hhb'
